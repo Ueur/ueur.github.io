@@ -1,8 +1,8 @@
 - title: "feed"
   href: "https://chrisanthropic.github.io/starving-artist-jekyll-theme/atom.xml"
 
-# - title: "googleplus"
-#   href: "#"
+- title: "googleplus"
+  href: "#"
 
 - title: "facebook"
   href: "#"
