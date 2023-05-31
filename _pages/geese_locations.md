@@ -1,6 +1,6 @@
 ---
-layout: about
-title: geese/locations
+layout: compress
+title: locations
 logo: "images/posts/fashion_doker.png"
 permalink: "/geese/locations"
 --- 
