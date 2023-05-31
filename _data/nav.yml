@@ -31,5 +31,5 @@
 - title: "about"
   href: "/about/"
   
-- title: "contact"
-  href: "/contact/"
+# - title: "contact"
+#   href: "/contact/"
