@@ -33,3 +33,10 @@
   
 # - title: "contact"
 #   href: "/contact/"
+
+- title: "geese"
+  subcategories:
+    - subtitle: "Our Neighbors"
+      subhref: "/geese/neighbors/"
+    - subtitle: "locations"
+      subhref: "/geese/locations/"
