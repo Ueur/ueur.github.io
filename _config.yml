@@ -25,10 +25,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: starving-artist-jekyll-theme
+theme: minima
   
 # Plugins
-gems:
+plugins:
   - jekyll-feed
 
 feed:
