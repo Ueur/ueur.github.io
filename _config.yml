@@ -25,7 +25,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: starving-artist-jekyll-theme
+theme: minima
   
 # Plugins
 plugins:
