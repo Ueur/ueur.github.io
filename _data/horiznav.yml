@@ -34,9 +34,9 @@
 # - title: "contact"
 #   href: "/contact/"
 
-- title: "geese"
+- title: "Geese"
   subcategories:
     - subtitle: "Our Neighbors"
       subhref: "/geese/neighbors/"
-    - subtitle: "locations"
+    - subtitle: "Locations"
       subhref: "/geese/locations/"
