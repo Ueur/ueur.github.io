@@ -38,5 +38,8 @@
   subcategories:
     - subtitle: "Our Neighbors"
       subhref: "/geese/neighbors/"
+      subcategories:
+        subtitle: "Gooserino's Family"
+        subhref: "geese/neighbors/gooserino"
     - subtitle: "Locations"
       subhref: "/geese/locations/"
