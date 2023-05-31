@@ -1,5 +1,5 @@
 # Site settings
-title: Yuchen Liu Portfolio
+title: Starving Artist Jekyll Theme
 email: ctarwater@chrisanthropic.com
 author: Chrisanthropic
 
@@ -8,7 +8,7 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: " ueur.github.io"
+  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
 
 header: images/logo.png
 
@@ -25,10 +25,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-theme: minima
+theme: starving-artist-jekyll-theme
   
 # Plugins
-plugins:
+gems:
   - jekyll-feed
 
 feed:
