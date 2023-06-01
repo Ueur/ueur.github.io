@@ -8,4 +8,4 @@ permalink: "/geese/neighbors/"
 
 <!-- <img src="/images/geese/unibrow.jpg" alt="unibrow" width="40%" height="40%" /> -->
 
-<img src="/images/geese/unibrow.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="MarineGEO circle logo" style="height: 40%; width: 40%;"/></a></p>
