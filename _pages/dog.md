@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Dog
-permalink: "/dog/"
+permalink: "/art/dog/"
 --- 
