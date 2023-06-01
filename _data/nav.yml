@@ -8,7 +8,7 @@
 - title: "Personal Art"
   subcategories:
     - subtitle: "Digital Art"
-      subhref: "/art/digital"
+      subhref: "/art/digital/"
     - subtitle: "Traditional Art"
       subhref: "/art/traditional/"
     - subtitle: "Photography"
