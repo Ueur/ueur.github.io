@@ -5,7 +5,7 @@ title: "Google Scholar Python to Check New Entries"
 # keywords: Shamsee, Lone Idiot and Cub, Tristan J. Tarwater, Adrian Ricker
 # description: Shamsee Lone Idiot and Cub - page 013
 
-thumbnail: images/posts/scholar.jpg
+thumbnail: /images/posts/scholar.jpg
 
 # facebook_type: 
 # facebook_image: images/posts/catmen.jpg
