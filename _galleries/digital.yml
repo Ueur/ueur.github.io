@@ -2,13 +2,13 @@
 name: "Digital"
 arts:
 # Row 1
-- image: "images/galleries/digital/doker.png"
+- image: "images/galleries/digital/doker.jpg"
   order: "1"
   artist: "Yuchen Liu"
   title: "Doker"
   description: "Painting of my dog"
 
-- image: "images/galleries/digital/ag.png"
+- image: "images/galleries/digital/ag.jpg"
   order: "3"
   artist: "Yuchen Liu"
   title: "Apple Goose"
@@ -16,13 +16,13 @@ arts:
   
 - 
 # Row 2
-- image: "images/galleries/digital/cloud.png"
+- image: "images/galleries/digital/cloud.jpg"
   order: "2"
   artist: "Yuchen Liu"
   title: "Cloud"
   description: "Painting of a cloud"
 
-- image: "images/galleries/digital/cloud2.png"
+- image: "images/galleries/digital/cloud2.jpg"
   order: "4"
   artist: "Yuchen Liu"
   title: "Cloud"
