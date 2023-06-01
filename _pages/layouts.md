@@ -37,7 +37,7 @@ This page will automatically show your blog posts.
 ```
 layout: blog
 title: blog
-permalink: "/blog/"
+permalink: "/projects/"
 ```
 
 ---------
