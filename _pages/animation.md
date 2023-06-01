@@ -4,4 +4,4 @@ title: Animation
 permalink: "/art/animation/"
 --- 
 
-![](/images/animation/animation.mp4.mp4)
+![](/images/animation/animation.mp4)
