@@ -8,11 +8,11 @@ arts:
   title: "Doker"
   description: "Painting of my dog"
 
-  - image: "images/galleries/digital/ag.png"
-  order: "2"
-  artist: "Yuchen Liu"
-  title: "Apple Goose"
-  description: "Painting of Apple Goose"
+ - image: "images/galleries/digital/ag.png"
+ order: "2"
+ artist: "Yuchen Liu"
+ title: "Apple Goose"
+ description: "Painting of Apple Goose"
   
 - 
 # Row 2
@@ -22,9 +22,9 @@ arts:
   title: "Cloud"
   description: "Painting of a cloud"
 
-  - image: "images/galleries/digital/cloud2.png"
-  order: "4"
-  artist: "Yuchen Liu"
-  title: "Cloud"
-  description: "Painting of cloud"
+- image: "images/galleries/digital/cloud2.png"
+ order: "4"
+ artist: "Yuchen Liu"
+ title: "Cloud"
+ description: "Painting of cloud"
   
