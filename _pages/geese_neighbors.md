@@ -12,9 +12,10 @@ permalink: "/geese/neighbors/"
 <p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img src="/images/geese/gooserino.jpg" alt="Gooserino" style="height: 50%; width: 50%;"/></a></p>
 
 <p float="left">
-  <img src="/images/geese/gooserino.jpg" width="100" />
-  <img src="/images/geese/gooserino.jpg" width="100" /> 
-  <img src="/images/geese/gooserino.jpg" width="100" />
+ ## [Unibrow](https://ueur.github.io/geese/neighbors/unibrow)
+<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="Unibrow" style="height: 50%; width: 50%;"/></a></p>
+some text
+
 </p>
 
 
