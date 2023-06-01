@@ -3,6 +3,9 @@ layout: page
 title: Gooserino's Family
 permalink: "/geese/neighbors/gooserino"
 --- 
+
+<h1>Gooserino</h1>
+
 On February 23rd, 2018, we noticed a particular goose making this weird honking/wahh-ing noise at another goose that we speculated to be the spouse.
 
 However, on September 3rd, 2018, we see the same goose, though we didn’t know it was the same goose at the time, standing alone at the apartments. We nicknamed the goose, “Lonely”, because they were standing around being alone. Upon closer inspection, we realized that Lonely had missing neck feathers, most likely from a possible attack by a predator. We felt bad for him too, since management kept chasing him out. He has a signature droopy left wing.
@@ -26,4 +29,5 @@ In the summer of 2020, Gooserino molts at the lake, still with his kids, though 
 In the summer of 2022, we saw a dead gosling next to him. He also looked horrible.
 
 In the summer of 2023, we saw him and his partner at the docks. Maybe his wife tried to lay eggs on the boat? Unfortunately, he did not have kids this year.
+
 <img src="/images/geese/gooserino/docs.jpg" alt="docs" style="height: 50%; width: 50%;"/>
