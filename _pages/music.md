@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Music
-permalink: "/music/"
+permalink: "/art/music/"
 --- 

@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: covers
-permalink: "/covers/"
+title: Photography
+permalink: "/art/photography/"
 --- 

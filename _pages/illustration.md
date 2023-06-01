@@ -1,5 +1,5 @@
 ---
 layout: gallery
 title: illustration
-permalink: "/illustration/"
+permalink: "/art/illustration/"
 --- 

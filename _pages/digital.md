@@ -1,5 +1,5 @@
 ---
 layout: gallery
 title: Digital Art
-permalink: "/digital/"
+permalink: "/art/digital/"
 --- 
