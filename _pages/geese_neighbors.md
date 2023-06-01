@@ -11,8 +11,11 @@ permalink: "/geese/neighbors/"
 ## [Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
 <p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img src="/images/geese/gooserino.jpg" alt="Gooserino" style="height: 50%; width: 50%;"/></a></p>
 
+![image](/images/geese/gooserino.jpg){: style="float: left"}
 
-<p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img align="left" width="200" src="/images/geese/gooserino.jpg" />
+Some text.
+
+<!-- <p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img align="left" width="200" src="/images/geese/gooserino.jpg" />
 
 #[Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
 
@@ -21,7 +24,7 @@ Some text
 
 #[Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
 
-Some text
+Some text -->
 
 <!-- <table>
   <tr>
