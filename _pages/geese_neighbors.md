@@ -14,10 +14,14 @@ permalink: "/geese/neighbors/"
 
 <p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img align="left" width="200" src="/images/geese/gooserino.jpg" />
 
-## [Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
+#[Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
 
 Some text
+<img align="left" width="200" src="/images/geese/gooserino.jpg" />
 
+#[Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
+
+Some text
 
 <!-- <table>
   <tr>
