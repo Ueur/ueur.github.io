@@ -37,4 +37,5 @@ When he is scared, he does what other geese do when scared, which is their necks
 
 This is him in June 2022 at the rear. His wife is leading the way. I'm not sure who is in the middle.
 
+
 <img src="/images/geese/apple/applerecent.jpg" alt="applerecent" style="height: 50%; width: 50%;"/>
