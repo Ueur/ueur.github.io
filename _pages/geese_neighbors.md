@@ -40,12 +40,12 @@ A power couple.
 &nbsp;
 &nbsp;
 
-## [Other Geese](https://ueur.github.io/geese/neighbors/other)
+<!-- ## [Other Geese](https://ueur.github.io/geese/neighbors/other)
 <p><a href="https://ueur.github.io/geese/neighbors/other"><img src="/images/geese/other.jpg" alt="Other geese" style="height: 50%; width: 50%;"/></a></p>
 Various other personalities we've met.
 &nbsp;
 &nbsp;
-&nbsp;
+&nbsp; -->
 
 
 
