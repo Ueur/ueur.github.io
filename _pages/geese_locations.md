@@ -8,7 +8,7 @@ permalink: "/geese/locations/"
 Lake Arlington
 </h2>
 
-The main place to see geese. Ranges from 5 to 50+ goslings each spring and a favorite molting spot for basically all the geese we know.
+The main place to see geese. Ranges from 5 to 50+ goslings each spring and a favorite molting spot for basically all the geese we know. Goslings here would learn how to dive and speed paddle in water, how to eat tall grass, how to noodle the mud for worms, and how to repond to cues of danger their parents warn them about.
 
 <img src="/images/geese/locations/lake.jpg" alt="lake" style="height: 50%; width: 50%;"/>
 <img src="/images/geese/locations/lake2.jpg" alt="lake" style="height: 50%; width: 50%;"/>

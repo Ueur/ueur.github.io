@@ -3,14 +3,38 @@ layout: page
 title: Apple Goose's Family
 permalink: "/geese/neighbors/apple"
 --- 
-On February 23rd, 2018, we noticed a particular goose making this weird honking/wahh-ing noise at another goose that we speculated to be the spouse.
 
-However, on September 3rd, 2018, we see the same goose, though we didn’t know it was the same goose at the time, standing alone at the apartments. We nicknamed the goose, “Lonely”, because they were standing around being alone. Upon closer inspection, we realized that Lonely had missing neck feathers, most likely from a possible attack by a predator.
+<h1>Apple Goose's Family</h1>
 
-On September 8th, 2018, however, we found Lonely, who we had also started calling Gooserino at the time, at Tony’s. Gooserino had joined Leader’s group, and had gone to the bottom of the goose social hierarchy.
+<img src="/images/geese/apple/applewife.jpg" alt="applewife" style="height: 50%; width: 50%;"/>
 
-During all of January of 2019, Gooserino had disappeared for a month…
+Spring of 2018, we saw two goslings at the lake. This was the first time we saw goslings. As they matured, they joined up with another family that had three goslings. Despite having less goslings, the one with two were dominant. That year was strange since these five were the only kids. This allowed us to get to know each one better.
 
-However, in summer of 2019, Gooserino reappeared, this time with kids! Unfortunately, we had mistaken Gooserino for Apple Goose, or called him Droopy. This was due to the fact that we had thought that Gooserino was a completely different goose, despite the fact that the goose had the same droopy wing, hence the nickname, “Droopy”. Gooserino also had become really aggressive and had even chased Big Brows, and Unibrow, a once trusted ally. However, even with his new found courage from his kids, Gooserino still didn’t have the nerve to chase Leader. Speaking of his kids, Gooserino had begun to teach his kids how to make his signature, “wahhhh”, sound.
+<img src="/images/geese/apple/first.jpg" alt="first" style="height: 50%; width: 50%;"/>
 
-In summer of 2020, Gooserino molts at the lake, still with his kids, though he is not as close to them anymore. We often recognize him by his unique, “wahhhhhh”, as opposed to his droopy wing.
+For instance, Apple Goose got his name because an apple chunk landed on his head. You can also tell him by his B-shaped chinstrap, as well as his curved and long neck. His honk is very high-pitched as well.
+
+<img src="/images/geese/apple/apple.jpg" alt="apple" style="height: 50%; width: 50%;"/>
+
+His daughter is named Little Aggressive.
+His son is named Nerd. He looks quite similar to Apple Goose with the long neck.
+
+<img src="/images/geese/apple/family.jpg" alt="family" style="height: 50%; width: 50%;"/>
+
+The other family with three goslings were called "family friend". The father liked standing on rocks. The kids were Wavy, Sawblade, and another gosling that sadly disappeared. They all have wavy chinstraps.
+
+<img src="/images/geese/apple/rock.jpg" alt="rock" style="height: 50%; width: 50%;"/>
+
+<img src="/images/geese/apple/wavy.jpg" alt="wavy" style="height: 50%; width: 50%;"/>
+
+March of 2019, we saw Apple Goose chase his kids all the way across the lake. It was evident he was trying for kids again. We even suspected he had kids previously, since another goose would circle us when we played Apple Goose's distinct honk. That means as of 2023, he is at least 8 years old. Anyway, in 2019, he did not have kids, whereas family friend had five goslings. Apple Goose gave up and accepted his kids back again, along with Wavy and Sawblade. They formed the Apple Goose flock.
+
+We caught Apple Goose at his peak. Since then, he has lost status. That's okay. He is special to us because of all the memories of him flying to where we lived at 7AM and waking us up with loud honks. He also said goodbye to us the day we moved out.
+
+When he is scared, he does what other geese do when scared, which is their necks get really thick. We call it "llamified"
+
+<img src="/images/geese/apple/llama.jpg" alt="llama" style="height: 50%; width: 50%;"/>
+
+This is him in June 2022 at the rear. His wife is leading the way. I'm not sure who is in the middle.
+
+<img src="/images/geese/apple/apple2022.jpg" alt="apple2022" style="height: 50%; width: 50%;"/>

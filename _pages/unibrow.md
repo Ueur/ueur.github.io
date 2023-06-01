@@ -3,14 +3,19 @@ layout: page
 title: Unibrow's Family
 permalink: "/geese/neighbors/unibrow"
 --- 
-On February 23rd, 2018, we noticed a particular goose making this weird honking/wahh-ing noise at another goose that we speculated to be the spouse.
 
-However, on September 3rd, 2018, we see the same goose, though we didn’t know it was the same goose at the time, standing alone at the apartments. We nicknamed the goose, “Lonely”, because they were standing around being alone. Upon closer inspection, we realized that Lonely had missing neck feathers, most likely from a possible attack by a predator.
+<h1>Unibrow's Family</h1>
 
-On September 8th, 2018, however, we found Lonely, who we had also started calling Gooserino at the time, at Tony’s. Gooserino had joined Leader’s group, and had gone to the bottom of the goose social hierarchy.
+Unibrow is a large goose with distinctive white marks on his forehead. For this reason, we think he is actually a giant maximus Canada Goose. He is known for his soft "ohn ohn" call. He is also very friendly with humans, which only Gooserino can rival. For some reason I cannot explain, he looks like a Quetzalcoatlus.
 
-During all of January of 2019, Gooserino had disappeared for a month…
+<img src="/images/geese/unibrow/dino.jpg" alt="dino" style="height: 50%; width: 50%;"/>
+<img src="/images/geese/unibrow/Quetzalcoatlus.webp" alt="Quetzalcoatlus" style="height: 50%; width: 50%;"/>
 
-However, in summer of 2019, Gooserino reappeared, this time with kids! Unfortunately, we had mistaken Gooserino for Apple Goose, or called him Droopy. This was due to the fact that we had thought that Gooserino was a completely different goose, despite the fact that the goose had the same droopy wing, hence the nickname, “Droopy”. Gooserino also had become really aggressive and had even chased Big Brows, and Unibrow, a once trusted ally. However, even with his new found courage from his kids, Gooserino still didn’t have the nerve to chase Leader. Speaking of his kids, Gooserino had begun to teach his kids how to make his signature, “wahhhh”, sound.
+We initially noticed him with Leader's group in 2018/2019, as Leader's right-hand-man. But while Leader and even Lonely both surpassed his status when they had children, we still had hopes for Unibrow.
 
-In summer of 2020, Gooserino molts at the lake, still with his kids, though he is not as close to them anymore. We often recognize him by his unique, “wahhhhhh”, as opposed to his droopy wing.
+In the spring of 2021, he had three children.
+<img src="/images/geese/unibrow/unibrowgos.jpg" alt="unibrowgos" style="height: 50%; width: 50%;"/>
+
+Then, in the spring of 2023, he had six children. The following week, he had four. The week after that, he had five. We have no clue what is going on.
+
+<img src="/images/geese/unibrow/unifive.jpg" alt="unifive" style="height: 50%; width: 50%;"/>

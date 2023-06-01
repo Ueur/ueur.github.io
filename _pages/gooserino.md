@@ -22,7 +22,9 @@ However, in summer of 2019, Gooserino reappeared, this time with three kids! Unf
 
 <img src="/images/geese/gooserino/kids.jpg" alt="kids" style="height: 50%; width: 50%;"/>
 
-His kids were the most comfortale with humans out of the dozens of goslings that year. I'd like to think that it is because Gooserino remembers the kindness we showed him at his lowest.
+His kids were the most comfortale with humans out of the dozens of goslings that year. I'd like to think that it is because Gooserino remembers the kindness we showed him at his lowest. One of the kids had strong rings on their eyes. Another one let us touch them, so we called them Brave. While they were digging for worms, their mouth became very dirty, so we also called them "that same dirty mouthed gos".
+
+<img src="/images/geese/gooserino/dirty.jpg" alt="dirty" style="height: 50%; width: 50%;"/>
 
 In the summer of 2020, Gooserino molts at the lake, still with his kids, though he is not as close to them anymore.
 
