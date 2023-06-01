@@ -14,6 +14,8 @@ permalink: "/geese/neighbors/"
 <p float="left">
  ## [Unibrow](https://ueur.github.io/geese/neighbors/unibrow)
 <p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="Unibrow" style="height: 50%; width: 50%;"/></a></p>
+<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="Unibrow" style="height: 50%; width: 50%;"/></a></p>
+
 some text
 
 </p>
