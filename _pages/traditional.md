@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: covers
-permalink: "/covers/"
+title: Traditional Art
+permalink: "/art/traditional/"
 --- 
