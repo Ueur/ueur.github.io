@@ -5,25 +5,20 @@
 - title: "Projects"
   href: "/projects/"
 
-
-- title: "Digital Art"
-  href: "/digital/"
-
-- title: "Traditional Art"
-  href: "/traditional/"
-
-- title: "Photography"
-  href: "/photography/"
-
-- title: "Animation"
-  href: "/animation/"
-
-- title: "Music"
-  href: "/music/"
-
-- title: "Dog"
-  href: "/dog/"
-
+- title: "Personal Art"
+  subcategories:
+    - subtitle: "Digital Art"
+      subhref: "/art/digital"
+    - subtitle: "Traditional Art"
+      subhref: "/art/traditional/"
+    - subtitle: "Photography"
+      subhref: "/art/photography/"
+    - subtitle: "Animation"
+      subhref: "/art/animation/"
+    - subtitle: "Music"
+      subhref: "/art/music/"  
+    - subtitle: "Dog"
+      subhref: "/art/dog/"
 
 - title: "Geese"
   subcategories:
