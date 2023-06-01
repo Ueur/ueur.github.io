@@ -12,3 +12,20 @@ The main place to see geese. Ranges from 5 to 50+ goslings each spring and a fav
 
 <img src="/images/geese/locations/lake.jpg" alt="lake" style="height: 50%; width: 50%;"/>
 <img src="/images/geese/locations/lake2.jpg" alt="lake" style="height: 50%; width: 50%;"/>
+
+<h2>
+Tony's Parking Lot
+</h2>
+
+Standard parking lot. Three species of birds love to congregate here: pigeons, seagulls, and geese. A favorite of Apple Goose's family. Wavy, who followed Apple Goose after her parents kicked her out, is seen trying to get into the dental place.
+
+<img src="/images/geese/locations/tony.jpg" alt="tony" style="height: 50%; width: 50%;"/>
+<img src="/images/geese/locations/tony2.jpg" alt="tony" style="height: 50%; width: 50%;"/>
+
+<h2>
+Apartments
+</h2>
+
+Large field in this place, which is surrounded by smaller homes. Leader's group is commonly seen here. But Apple Goose used to go here a lot too. 
+
+<img src="/images/geese/locations/apartment.jpg" alt="apartment" style="height: 50%; width: 50%;"/>
