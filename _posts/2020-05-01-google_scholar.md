@@ -5,7 +5,7 @@ title: "Google Scholar Python to Check New Entries"
 # keywords: Shamsee, Lone Idiot and Cub, Tristan J. Tarwater, Adrian Ricker
 # description: Shamsee Lone Idiot and Cub - page 013
 
-thumbnail: images/posts/scholar.png
+thumbnail: images/posts/scholar.jpg
 
 # facebook_type: 
 # facebook_image: images/posts/catmen.jpg
@@ -14,7 +14,7 @@ thumbnail: images/posts/scholar.png
 
 ## [ Google Scholar Python to Check New Entries](https://github.com/Ueur/Google_Scholar_Python_New_Entries)
 
-<p><a href="https://github.com/Ueur/Google_Scholar_Python_New_Entries"><img src="/images/posts/scholar.png" alt="nu32" style="height: 50%; width: 50%;"/></a></p>
+<p><a href="https://github.com/Ueur/Google_Scholar_Python_New_Entries"><img src="/images/posts/scholar.jpg" alt="scholar" style="height: 50%; width: 50%;"/></a></p>
 
 
 This project was created in the spring of 2020 for the Northwestern University Chemical Engineering newsletter, in order to obtain newly published articles every week from a list of professors. This would allow the department to add these new articles to the newsletter without pestering professors weekly.

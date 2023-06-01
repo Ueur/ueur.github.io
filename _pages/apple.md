@@ -39,3 +39,5 @@ This is him in June 2022 at the rear. His wife is leading the way. I'm not sure 
 
 
 <img src="/images/geese/apple/applerecent.jpg" alt="applerecent" style="height: 50%; width: 50%;"/>
+
+Our headcannon is that Apple Goose and his wife go to the arctic circle to molt for years when they do not have kids.
