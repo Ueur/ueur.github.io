@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: blog
-permalink: "/blog/"
+title: projects
+permalink: "/projects/"
 sidebar: "recent_posts"
 --- 
