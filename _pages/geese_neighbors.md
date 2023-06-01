@@ -4,8 +4,17 @@ title: Our Neighbors
 permalink: "/geese/neighbors/"
 --- 
 ## [Unibrow](https://ueur.github.io/geese/neighbors/unibrow)
-<!-- [![Unibrow](/images/geese/unibrow.jpg 'Unibrow Goose')](https://ueur.github.io/geese/neighbors/unibrow) -->
+<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="Unibrow" style="height: 40%; width: 40%;"/></a></p>
 
-<!-- <img src="/images/geese/unibrow.jpg" alt="unibrow" width="40%" height="40%" /> -->
+## [Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
+<p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img src="/images/geese/gooserino.jpg" alt="Gooserino" style="height: 40%; width: 40%;"/></a></p>
 
-<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="MarineGEO circle logo" style="height: 40%; width: 40%;"/></a></p>
+
+<table>
+  <tr>
+    <td valign="top">## [Unibrow](https://ueur.github.io/geese/neighbors/unibrow)
+<p><a href="https://ueur.github.io/geese/neighbors/unibrow"><img src="/images/geese/unibrow.jpg" alt="Unibrow" style="height: 40%; width: 40%;"/></a></p></td>
+    <td valign="top">## [Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
+<p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img src="/images/geese/gooserino.jpg" alt="Gooserino" style="height: 40%; width: 40%;"/></a></p></td>
+  </tr>
+</table>
