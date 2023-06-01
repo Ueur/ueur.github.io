@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Traditional Art
+title: Traditional
 permalink: "/art/traditional/"
 --- 

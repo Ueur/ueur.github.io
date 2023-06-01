@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Digital Art
+title: Digital
 permalink: "/art/digital/"
 --- 
