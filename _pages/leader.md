@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gooserino's Family
-permalink: "/geese/neighbors/gooserino"
+title: Leader's Family
+permalink: "/geese/neighbors/leader"
 --- 
 On February 23rd, 2018, we noticed a particular goose making this weird honking/wahh-ing noise at another goose that we speculated to be the spouse.
 
