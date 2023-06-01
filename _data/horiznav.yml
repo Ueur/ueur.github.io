@@ -6,7 +6,7 @@
   href: "/projects/"
 
 - title: "Personal Art"
-href: "/art/digital/"
+  href: "/art/digital/"
   subcategories:
     - subtitle: "Digital Art"
       subhref: "/art/digital/"
@@ -22,7 +22,7 @@ href: "/art/digital/"
       subhref: "/art/dog/"
 
 - title: "Geese"
-href: "/geese/neighbors/"
+  href: "/geese/neighbors/"
   subcategories:
     - subtitle: "Our Neighbors"
       subhref: "/geese/neighbors/"
