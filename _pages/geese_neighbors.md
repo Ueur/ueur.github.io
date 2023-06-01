@@ -12,9 +12,11 @@ permalink: "/geese/neighbors/"
 <p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img src="/images/geese/gooserino.jpg" alt="Gooserino" style="height: 50%; width: 50%;"/></a></p>
 
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](/images/geese/gooserino.jpg) blah 
-</div>
+<p><a href="https://ueur.github.io/geese/neighbors/gooserino"><img align="left" width="200" src="/images/geese/gooserino.jpg" />
+
+## [Gooserino](https://ueur.github.io/geese/neighbors/gooserino)
+
+Some text
 
 
 <!-- <table>
