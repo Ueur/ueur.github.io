@@ -9,7 +9,7 @@ arts:
   description: "Painting of my dog"
 
  - image: "images/galleries/digital/ag.png"
- order: "2"
+ order: "3"
  artist: "Yuchen Liu"
  title: "Apple Goose"
  description: "Painting of Apple Goose"
@@ -17,7 +17,7 @@ arts:
 - 
 # Row 2
 - image: "images/galleries/digital/cloud.png"
-  order: "3"
+  order: "2"
   artist: "Yuchen Liu"
   title: "Cloud"
   description: "Painting of a cloud"
