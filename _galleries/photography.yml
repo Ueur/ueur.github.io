@@ -14,7 +14,7 @@ arts:
   title: "Apple Goose"
   description: "Apple Goose"
 
-
+-
 - image: "images/galleries/photography/good2.jpg"
   order: "3"
   artist: "Yuchen Liu"
@@ -26,7 +26,8 @@ arts:
   artist: "Yuchen Liu"
   title: "Dog"
   description: "My dog"
-  
+
+-  
 - image: "images/galleries/photography/x.jpg"
   order: "5"
   artist: "Yuchen Liu"
