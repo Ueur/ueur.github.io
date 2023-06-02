@@ -30,14 +30,14 @@ arts:
 -  
 
 
-- image: "images/galleries/photography/bed.jpg"
+- image: "images/galleries/photography/lick.jpg"
   order: "4"
   artist: "Yuchen Liu"
   title: "My Dog"
   description: "My dog"
 
-- image: "images/galleries/photography/diggy.jpg"
-  order: "6"
-  artist: "Yuchen Liu"
-  title: "My Dog"
-  description: "My dog"
+# - image: "images/galleries/photography/diggy.jpg"
+#   order: "6"
+#   artist: "Yuchen Liu"
+#   title: "My Dog"
+#   description: "My dog"
