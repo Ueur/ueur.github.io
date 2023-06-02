@@ -21,15 +21,23 @@ arts:
   title: "Brave Gos"
   description: "Brave Gos"
 
-- image: "images/galleries/photography/bed.jpg"
-  order: "6"
-  artist: "Yuchen Liu"
-  title: "My Dog"
-  description: "My dog"
-
--  
 - image: "images/galleries/photography/x.jpg"
   order: "5"
   artist: "Yuchen Liu"
   title: "X"
   description: "Mysterious sign"
+
+-  
+
+
+- image: "images/galleries/photography/bed.jpg"
+  order: "4"
+  artist: "Yuchen Liu"
+  title: "My Dog"
+  description: "My dog"
+
+- image: "images/galleries/photography/diggy.jpg"
+  order: "6"
+  artist: "Yuchen Liu"
+  title: "My Dog"
+  description: "My dog"
