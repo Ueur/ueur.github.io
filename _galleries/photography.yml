@@ -27,7 +27,7 @@ arts:
   title: "Dog"
   description: "My dog"
   
-  - image: "images/galleries/photography/x.jpg"
+- image: "images/galleries/photography/x.jpg"
   order: "5"
   artist: "Yuchen Liu"
   title: "X"
