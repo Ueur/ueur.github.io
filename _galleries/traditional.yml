@@ -37,3 +37,9 @@ arts:
   artist: "Yuchen Liu"
   title: "Gosling Doodle"
   description: "Gosling Doodle"
+
+- image: "images/galleries/traditional/acrylic.jpg"
+  order: "7"
+  artist: "Yuchen Liu"
+  title: "Acrylic Still-life"
+  description: "Acrylic Still-life"
