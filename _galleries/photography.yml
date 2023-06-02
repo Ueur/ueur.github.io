@@ -22,9 +22,9 @@ arts:
   description: "Brave Gos"
 
 - image: "images/galleries/photography/bed.jpg"
-  order: "4"
+  order: "6"
   artist: "Yuchen Liu"
-  title: "Dog"
+  title: "My Dog"
   description: "My dog"
 
 -  
