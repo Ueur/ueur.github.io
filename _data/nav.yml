@@ -18,8 +18,8 @@
       subhref: "/art/animation/"
     - subtitle: "Music"
       subhref: "/art/music/"  
-    - subtitle: "Dog"
-      subhref: "/art/dog/"
+    # - subtitle: "Dog"
+    #   subhref: "/art/dog/"
 
 - title: "Geese"
   href: "/geese/neighbors/"
