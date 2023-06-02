@@ -29,12 +29,17 @@ arts:
 
 -  
 
-
 - image: "images/galleries/photography/lick.jpg"
   order: "4"
   artist: "Yuchen Liu"
-  title: "My Dog"
-  description: "My dog"
+  title: "Dog"
+  description: "Dog Greek Yogurt"
+
+# - image: "images/galleries/photography/lick.jpg"
+#   order: "4"
+#   artist: "Yuchen Liu"
+#   title: "My Dog"
+#   description: "My dog"
 
 # - image: "images/galleries/photography/diggy.jpg"
 #   order: "6"
