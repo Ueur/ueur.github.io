@@ -3,23 +3,23 @@ name: "Photography"
 arts:
 # Row 1
 
-- image: "images/galleries/photography/lick.jpg"
-  order: "1"
-  artist: "Yuchen Liu"
-  title: "Dog"
-  description: "Dog Greek Yogurt"
+# - image: "images/galleries/photography/lick.jpg"
+#   order: "1"
+#   artist: "Yuchen Liu"
+#   title: "Dog"
+#   description: "Dog Greek Yogurt"
 
-- image: "images/galleries/photography/bed.jpg"
-  order: "6"
-  artist: "Yuchen Liu"
-  title: "My Dog"
-  description: "My dog"
+# - image: "images/galleries/photography/bed.jpg"
+#   order: "6"
+#   artist: "Yuchen Liu"
+#   title: "My Dog"
+#   description: "My dog"
 
-- image: "images/galleries/photography/diggy.jpg"
-  order: "7"
-  artist: "Yuchen Liu"
-  title: "My Dog"
-  description: "My dog"
+# - image: "images/galleries/photography/diggy.jpg"
+#   order: "7"
+#   artist: "Yuchen Liu"
+#   title: "My Dog"
+#   description: "My dog"
 
 
 - image: "images/galleries/photography/lab.jpg"
