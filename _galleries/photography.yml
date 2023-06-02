@@ -14,7 +14,7 @@ arts:
   title: "Apple Goose"
   description: "Apple Goose"
 
--
+
 - image: "images/galleries/photography/good2.jpg"
   order: "3"
   artist: "Yuchen Liu"
@@ -27,7 +27,7 @@ arts:
   title: "X"
   description: "Mysterious sign"
 
--  
+
 
 - image: "images/galleries/photography/lick.jpg"
   order: "4"
@@ -35,14 +35,14 @@ arts:
   title: "Dog"
   description: "Dog Greek Yogurt"
 
-# - image: "images/galleries/photography/lick.jpg"
-#   order: "4"
-#   artist: "Yuchen Liu"
-#   title: "My Dog"
-#   description: "My dog"
+- image: "images/galleries/photography/bed.jpg"
+  order: "6"
+  artist: "Yuchen Liu"
+  title: "My Dog"
+  description: "My dog"
 
-# - image: "images/galleries/photography/diggy.jpg"
-#   order: "6"
-#   artist: "Yuchen Liu"
-#   title: "My Dog"
-#   description: "My dog"
+- image: "images/galleries/photography/diggy.jpg"
+  order: "7"
+  artist: "Yuchen Liu"
+  title: "My Dog"
+  description: "My dog"
